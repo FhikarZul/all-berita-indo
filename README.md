@@ -1,14 +1,3 @@
-<div align="center">
-<h1>Berita Indo API</h1>
-
-<p>An api to display news in Indonesia</p>
-
-![berita-indo-api](https://socialify.git.ci/satyawikananda/berita-indo-api/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F26%2F91%2Ff2%2F2691f2fa1a0f078f5f274edf7fea6763.png&owner=1&pulls=1&stargazers=1&theme=Light)
-
-</div>
-
-> Dokumentasi untuk bahasa indonesia. [Klik disini](./README-ID.md)
-
 ## Description
 
 Berita Indo API (or in English is Indonesian News API) is an API to display many news Indonesia like from CNN News, CNBC News, etc. For the datas was parsed from the RSS feed to JSON type and also Rest API. For the routes, you can see it below.
